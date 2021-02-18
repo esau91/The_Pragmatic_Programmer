@@ -1,15 +1,15 @@
 # The_Pragmatic_Programmer
 
 ## Quotes
-> 1. The pragmatic programmer don't shirk from responsability. Instead, we rejoice in accepting challenges and in making our expertise well known. If we are responsible for a design, or a piece of code, we do a job we can be proud of.
+> **1.** The pragmatic programmer don't shirk from responsability. Instead, we rejoice in accepting challenges and in making our expertise well known. If we are responsible for a design, or a piece of code, we do a job we can be proud of.
 
-> 2. An investment in knowledge always pays the best interest. Benjamin Franklin
+> **2.** An investment in knowledge always pays the best interest. Benjamin Franklin
 
-> 3. If all the routines preconditions are met by the caller, the routine shall guarantee that all postconditions and invariants will be true when it completes.
+> **3.** If all the routines preconditions are met by the caller, the routine shall guarantee that all postconditions and invariants will be true when it completes.
 
-> 4. So next time something seems to work, but you don't know why, make sure it isn't a coincidence.
+> **4.** So next time something seems to work, but you don't know why, make sure it isn't a coincidence.
 
-> 5. No one size fits all.
+> **5.** No one size fits all.
 
 ## Abreviations to remember
 1. ETC: Easier to Change
